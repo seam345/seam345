@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm an open source Rust developer, most of my work is on my gitlab account https://gitlab.com/seam345.
+
+currently working on 
+- Zigbee2mqtt types https://crates.io/crates/zigbee2mqtt-types
+- Rusty key (unfinished) https://gitlab.com/seam345/rustykey
+
+
 <!--
 **seam345/seam345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
