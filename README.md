@@ -6,7 +6,7 @@ currently working on
 - Zigbee2mqtt types https://crates.io/crates/zigbee2mqtt-types
 - Rusty key (unfinished) https://gitlab.com/seam345/rustykey
 
-
+If there is an open project you think I'd be suited to or want to point me at a project that would like some help I'm happy to try lend a hand where I can, either open an issue [here](https://github.com/seam345/seam345/issues) or contact me directly at sean@seanborg.tech
 <!--
 **seam345/seam345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
